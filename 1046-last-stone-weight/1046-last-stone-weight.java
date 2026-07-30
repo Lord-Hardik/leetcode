@@ -17,6 +17,6 @@ class Solution {
             }
         }
          
-         return pq.isEmpty() ? 0 : pq.peek();
+         return pq.size()  == 0 ? 0 : pq.poll();
     }
 }
