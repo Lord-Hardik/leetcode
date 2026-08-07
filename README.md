@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Hardik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Lord-Hardik/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Lord-Hardik/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
