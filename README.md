@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lord-Hardik/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Hardik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Lord-Hardik/leetcode/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Lord-Hardik/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Hardik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Lord-Hardik/leetcode/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Lord-Hardik/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lord-Hardik/leetcode/tree/master/0011-container-with-most-water) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Lord-Hardik/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
