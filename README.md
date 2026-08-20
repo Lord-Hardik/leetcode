@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lord-Hardik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1046-last-stone-weight](https://github.com/Lord-Hardik/leetcode/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Lord-Hardik/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Lord-Hardik/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lord-Hardik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Lord-Hardik/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Lord-Hardik/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
