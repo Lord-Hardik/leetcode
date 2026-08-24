@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lord-Hardik/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lord-Hardik/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lord-Hardik/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Lord-Hardik/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lord-Hardik/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lord-Hardik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1046-last-stone-weight](https://github.com/Lord-Hardik/leetcode/tree/master/1046-last-stone-weight) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Hardik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lord-Hardik/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Lord-Hardik/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Quickselect
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lord-Hardik/leetcode/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/Lord-Hardik/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lord-Hardik/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Lord-Hardik/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lord-Hardik/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lord-Hardik/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Lord-Hardik/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lord-Hardik/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Lord-Hardik/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Lord-Hardik/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
