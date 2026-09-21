@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Lord-Hardik/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Lord-Hardik/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lord-Hardik/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Lord-Hardik/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Hardik/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lord-Hardik/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lord-Hardik/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -98,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lord-Hardik/leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Lord-Hardik/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lord-Hardik/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lord-Hardik/leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Lord-Hardik/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lord-Hardik/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lord-Hardik/leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lord-Hardik/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quicksort
 |  |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lord-Hardik/leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Lord-Hardik/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
